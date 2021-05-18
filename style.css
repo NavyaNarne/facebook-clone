@@ -1,0 +1,102 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: small;
+}
+form
+{
+    border: 1px;
+}
+input[type=text],input[type=password]
+{
+    width: 40%;
+    padding: 15px 10px;
+    margin: 4px 5px;
+    box-sizing: border-box;
+    background-color:#eff7e1;
+}
+button
+{
+    background-color:blue;
+    color: white;
+    font-size: 20px;
+    padding: 10px 10px;
+    margin: 1px;
+    cursor: pointer;
+    width: 39%;
+    text-align: center;
+}
+.createbtn
+{
+    width: 30%;
+    padding: 10px;
+    background-color: green;
+    margin: 0.2px;
+}
+button:hover
+{
+    opacity: 10;
+}
+h1
+{
+    font-size: 45px;
+    font-family: fantasy;
+    color: blue;
+    text-align: center;
+}
+h2
+{
+    color: grey;
+}
+.sample
+{
+    padding: 20px;
+}
+.btmlft
+{
+    position: absolute;
+    bottom: 40px;
+    left: 30px;
+    font-size: 20px;
+}
+.btmrht
+{
+    position: absolute;
+    bottom: 40px;
+    right: 30px;
+    font-size: 20px;
+}
+.form
+{
+    text-align: center;
+    font-size: 20px;
+}
+.form1
+{
+    text-align: left;
+}
+.newbtn
+{
+    width: 20%;
+    padding: 10px;
+    background-color:rgb(9, 39, 49);
+    margin: 0.2px;
+}
+p
+{
+    font-size: 25px;
+}
+.middle
+{ 
+    text-align: center;
+    bottom: 30px;
+    font-size: 20px;
+}
+.forgot
+{
+    position: absolute;
+    bottom: 360px;
+    right: 470px;
+    font-size: 20px;
+}
